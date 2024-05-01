@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Sreyanth Akella and I am a recent computer science graduate.<br>I am a tech enthusiast and have a love for problem-solving and learning new skills.<br><br>I have worked on:<br>Data Mining and Visualization<br>Game Design with Unity <br>Image Analysis and Computer Vision<br>Object-Oriented programming<br>Software Engineering Principles<br>
+Hello, my name is Sreyanth Akella and I am a recent computer science graduate.<br>I am a tech enthusiast and have a love for problem-solving and learning new skills.<br><br>I have worked on:<br>Data Analysis and Visualization<br>Game Design with Unity <br>Image Analysis and Computer Vision<br>Object-Oriented programming<br>Software Engineering Principles<br>
 
 <h3> Contact info : uni.sreyanth@gmail.com </h3>
 <a href="https://www.linkedin.com/in/sreyanth-akella-513a2a122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreyanth akella" height="30" width="40" /></a>
