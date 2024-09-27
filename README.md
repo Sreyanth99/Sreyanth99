@@ -1,8 +1,10 @@
 # 💫 About Me:
-Hello, my name is Sreyanth Akella and I am a recent computer science graduate.<br>I am a tech enthusiast and love problem-solving and learning new skills.<br><br>I work on:<br>-Data Analysis<br>-Web Development
+Hello, my name is Sreyanth Akella<br/> I am a Web Developer and Data Analyst
 
 <h3> Contact me : uni.sreyanth@gmail.com </h3>
 <a href="https://www.linkedin.com/in/sreyanth-akella-513a2a122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Sreyanth Akella" height="30" width="40" />
+
+<h3><a href="https://sreyanth.vercel.app/" target=_blank >Check out my portfolio</a> </h3>
 
 
 # 💻 Skills :
