@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Sreyanth Akella<br/> I am a Web Developer and Data Analyst
+Hello, my name is Sreyanth Akella<br/> I am a Developer and Data Analyst
 
 <h3> Contact me : uni.sreyanth@gmail.com </h3>
 <a href="https://www.linkedin.com/in/sreyanth-akella-513a2a122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Sreyanth Akella" height="30" width="40" />
