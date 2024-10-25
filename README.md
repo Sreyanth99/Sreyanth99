@@ -5,7 +5,9 @@ Hello, my name is Sreyanth Akella<br/> I am a Developer and Data Analyst
 <a href="https://www.linkedin.com/in/sreyanth-akella-513a2a122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Sreyanth Akella" height="30" width="40" />
 
 <h3><a href="https://sreyanth.vercel.app/" target=_blank >Check out my portfolio</a> </h3>
+<!--change style to pixel to still track but not display,for-the-badge to display -->
 
+![](https://komarev.com/ghpvc/?username=sreyanth99&color=5D3FD3&style=for-the-badge)
 
 # 💻 Skills :
 
@@ -45,4 +47,7 @@ Hello, my name is Sreyanth Akella<br/> I am a Developer and Data Analyst
 <img align="left" alt="Pandas" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
 <img align="left" alt="Matplotlib" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
 <img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg"/>
+<br/>
+
+
 
